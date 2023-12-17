@@ -4,7 +4,7 @@
 微信：kf10501
 经供参考学习，请勿商业用途！
  */
- header('Content-type:text/json');
+header('Content-type:text/json');
 index();
 function index()
 {  
