@@ -12,9 +12,26 @@
       </tr>
     </tbody>
   </table>
+  <img width="600" src="https://github.com/duijiao/tools/blob/main/image.png?raw=true">
+  <P>json数据说明</P>
+  <table><thead><tr><th>名称</th><th>描述说明</th></tr></thead>
+    <tbody>
+      <tr>
+        <td><span>image</span></td><td>封面图片地址</td>
+      </tr>
+      <tr>
+        <td><span>title</span></td><td>PPT模板标题</td>
+      </tr>
+      <tr>
+        <td><span>link1</span></td><td>PPT模板预览地址</td>
+      </tr>
+      <tr>
+        <td><span>link</span></td><td>PPT模板下载id，获取方式：https://www.ypppt.com/p/d.php?aid=加获取的id</td>
+      </tr>
+    </tbody>
+  </table>
 </P>
 <h3>#关注我们</h3>
 <p style="color:red">
 微信公众号：友享资源</p>
-<br>
-<img witdh="100px" src="https://github.com/duijiao/tools/blob/main/qrcode_for_gh_407a4f664545_258.jpg?raw=true">
+<img width="250" src="https://github.com/duijiao/tools/blob/main/qrcode_for_gh_407a4f664545_258.jpg?raw=true">
