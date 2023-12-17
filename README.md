@@ -1,6 +1,6 @@
 工具box
 <br>
-<font style="color=red"">
+<font>
 微信公众号：友享资源</font>
 qq：2330298244
 <br>
