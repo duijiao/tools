@@ -33,7 +33,7 @@
     </tbody>
   </table>
 
-<P>
+
   🔵搜索模板接口获取实例(ssppt.php)：
   <br>
   > http://域名/ssppt.php? `page` =1&amp; `name` =总结
@@ -63,8 +63,7 @@
       </tr>
     </tbody>
   </table>
-</P>
-<P>
+
   🔵模板查看下载接口获取实例(pptzs.php)：
   <br>
 http://域名/pptzs.php?<span style="color:#ff0000">url</span>=<span style"color:#00ff00">上面获取到的：link1</span>&amp;<span style="color:#ff0000">src</span>=<span style"color:#00ff00">link
@@ -80,7 +79,7 @@ http://域名/pptzs.php?<span style="color:#ff0000">url</span>=<span style"color
     </tbody>
   </table>
   <img width="600" src="https://github.com/duijiao/tools/blob/main/image.png?raw=true">
-  <P>json数据说明</P>
+  <P>json数据说明</p>
   <table><thead><tr><th>名称</th><th>描述说明</th></tr></thead>
     <tbody>
       <tr>
@@ -92,7 +91,6 @@ http://域名/pptzs.php?<span style="color:#ff0000">url</span>=<span style"color
      
     </tbody>
   </table>
-</P>
 <h3>#关注我们</h3>
 <p style="color:red">
 微信公众号：友享资源</p>
