@@ -1,6 +1,16 @@
 <h3>#工具box开源接口</h3>
+<h3>#工具box开源接口</h3>
 <P>
-  🔵主页模板接口获取实例：<a></a>http://域名/hqppt.php?name=zongjie&page=1</a>
+  🔵主页模板接口获取实例(hqppt.php)：
+  <br>
+  <div style="background: #f9fafb;border-radius: 4px;padding:0px 8px">
+	<div style="width: 100%;padding: 9px 8px;">
+		<div class="item"><span
+				style="font-size: 12px;font-weight: 700;background-color: rgba(38, 206, 164, 0.1);color: rgb(38, 206, 164);min-width: 48px;max-width: none;justify-content: center;height: 20px;border-radius: 4px;padding:0 6px;">GET</span><span
+				style="padding: 0 8px;font-size: 14px;">http://域名/hqppt.php?<span style="color:#ff0000">page</span>=1&amp;<span style="color:#ff0000">name</span>=%E7%AE%80%E7%BA%A6</span>
+		</div>
+	</div>
+</div>
   <br>
   <table><thead><tr><th>参数名</th><th>参数值</th><th>是否必填</th><th>参数类型</th><th>描述说明</th></tr></thead>
     <tbody>
@@ -12,7 +22,7 @@
       </tr>
     </tbody>
   </table>
-  <img width="600" src="https://github.com/duijiao/tools/blob/main/image.png?raw=true">
+  < img width="600" src="https://github.com/duijiao/tools/blob/main/image.png?raw=true">
   <P>json数据说明</P>
   <table><thead><tr><th>名称</th><th>描述说明</th></tr></thead>
     <tbody>
@@ -31,6 +41,14 @@
     </tbody>
   </table>
 </P>
+<P>
+  🔵搜索模板接口获取实例(ssppt.php)：
+  <br>
+  <div style="background: #f9fafb;border-radius: 4px;padding:0px 8px">
+	<div style="width: 100%;padding: 9px 8px;">
+		<div class="item"><span
+				style="font-size: 12px;font-weight: 700;background-color: rgba(38, 206, 164, 0.1);color: rgb(38, 206, 164);min-width: 48px;max-width: none;justify-content: center;height: 20px;border-radius: 4px;padding:0 6px;">GET</span><span
+				style="padding: 0 8px;font-s
 <h3>#关注我们</h3>
 <p style="color:red">
 微信公众号：友享资源</p>
