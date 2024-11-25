@@ -1,6 +1,6 @@
 <h3>#工具box开源接口</h3>
 <P>
-  接口获取实例：<a></a>http://域名/hqppt.php?name=zongjie&page=1</a>
+  🔵主页模板接口获取实例：<a></a>http://域名/hqppt.php?name=zongjie&page=1</a>
   <br>
   <table><thead><tr><th>参数名</th><th>参数值</th><th>是否必填</th><th>参数类型</th><th>描述说明</th></tr></thead>
     <tbody>
