@@ -2,7 +2,7 @@
 
   🔵主页模板接口获取实例(hqppt.php)：
   <br>
-> http://域名/hqppt.php?` page `=1&amp;` name `=%E7%AE%80%E7%BA%A6
+> http://域名/hqppt.php? `page ` =1&amp; `name` =%E7%AE%80%E7%BA%A6
   <br>
   <table><thead><tr><th>参数名</th><th>参数值</th><th>是否必填</th><th>参数类型</th><th>描述说明</th></tr></thead>
     <tbody>
