@@ -2,7 +2,7 @@
 
   🔵主页模板接口获取实例(hqppt.php)：
   <br>
-> http://域名/hqppt.php? `page ` =1&amp; `name` =%E7%AE%80%E7%BA%A6
+> http://域名/hqppt.php? `page ` =1&amp; `name` =总结
   <br>
   <table><thead><tr><th>参数名</th><th>参数值</th><th>是否必填</th><th>参数类型</th><th>描述说明</th></tr></thead>
     <tbody>
@@ -36,14 +36,7 @@
 <P>
   🔵搜索模板接口获取实例(ssppt.php)：
   <br>
-  <div style="background: #f9fafb;border-radius: 4px;padding:0px 8px">
-	<div style="width: 100%;padding: 9px 8px;">
-		<div class="item"><span
-				style="font-size: 12px;font-weight: 700;background-color: rgba(38, 206, 164, 0.1);color: rgb(38, 206, 164);min-width: 48px;max-width: none;justify-content: center;height: 20px;border-radius: 4px;padding:0 6px;">GET</span><span
-				style="padding: 0 8px;font-size: 14px;">http://域名/ssppt.php?<span style="color:#ff0000">page</span>=1&amp;<span style="color:#ff0000">name</span>=%E7%AE%80%E7%BA%A6</span>
-		</div>
-	</div>
-</div>
+  > http://域名/ssppt.php? `page` =1&amp; `name` =总结
   <br>
   <table><thead><tr><th>参数名</th><th>参数值</th><th>是否必填</th><th>参数类型</th><th>描述说明</th></tr></thead>
     <tbody>
