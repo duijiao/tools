@@ -1,5 +1,5 @@
 <h3>#工具box开源接口</h3>
-<P>
+
   🔵主页模板接口获取实例(hqppt.php)：
   <br>
 > http://域名/hqppt.php?`page`=1&amp;`name`=%E7%AE%80%E7%BA%A6
@@ -32,7 +32,7 @@
       </tr>
     </tbody>
   </table>
-</P>
+
 <P>
   🔵搜索模板接口获取实例(ssppt.php)：
   <br>
