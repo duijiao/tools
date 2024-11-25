@@ -66,7 +66,7 @@
 
   🔵模板查看下载接口获取实例(pptzs.php)：
   <br>
-http://域名/pptzs.php?<span style="color:#ff0000">url</span>=<span style"color:#00ff00">上面获取到的：link1</span>&amp;<span style="color:#ff0000">src</span>=<span style"color:#00ff00">link
+> http://域名/pptzs.php? `url` =上面获取到的：link1&amp; `src` =link
   <br>
   <table><thead><tr><th>参数名</th><th>参数值</th><th>是否必填</th><th>参数类型</th><th>描述说明</th></tr></thead>
     <tbody>
